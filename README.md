@@ -4,7 +4,7 @@
 A simple and elegant **landing page** for the [Quran Tab browser extension](https://qurantab.com).  
 This site introduces the extension, highlights its features, and provides direct download links for Chrome and Edge.
 
-![Preview Screenshot](./screenshot.png)
+![App Preview](./images/preview.png)
 
 ---
 
