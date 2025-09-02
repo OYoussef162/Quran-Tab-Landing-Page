@@ -34,13 +34,19 @@ This site introduces the extension, highlights its features, and provides direct
 ## 📂 Project Structure
 
 ```bash
-├── index.html        # Main landing page
-├── /css              # Compiled CSS files
-├── /sass             # Source SCSS files
-├── /js               # JavaScript files
-├── /images           # Assets (screenshots, icons, backgrounds)
-└── README.md         # Project documentation
+quran-tab-landing/
+├── src/
+│   ├── sass/
+│   ├── js/
+│   └── index.html
+├── dist/   <-- compiled files for deployment
+├── assets/
+│   └── preview.png
+├── README.md
+
 ````
+- src/ contains the source code (SASS, modular JS).
+- dist/ contains the final build, used for deployment or GitHub Pages.
 
 ---
 
