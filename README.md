@@ -80,7 +80,7 @@ If you’d like to improve the design, fix bugs, or add features, feel free to f
 
 ---
 
-### ✨ Acknowledgements
+### 💡 Acknowledgements
 
 * Instructed by [almdrasa.com](https://almdrasa.com/?srsltid=AfmBOoq3b5z-4WOFb2eGxPfihotnY_9o2R6RGIPozGjctbwVtn8OiY9u)
 
