@@ -60,7 +60,7 @@ quran-tab-landing/
 2. Navigate to the project folder:
 
    ```bash
-   cd Quran Tab Landing Page
+   cd quran-tab-landing-page
    ```
 3. Open `index.html` in your browser
    *(for best results, serve with a local server: `npx serve .` or `python -m http.server`)*
