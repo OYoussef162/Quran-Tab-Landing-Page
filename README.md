@@ -1,7 +1,7 @@
 
 # 📖 Quran Tab – Landing Page
 
-A simple and elegant **landing page** for the [Quran Tab browser extension](https://qurantab.com).  
+A simple and elegant **landing page** for the [Quran Tab browser extension](https://chromewebstore.google.com/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd).  
 This site introduces the extension, highlights its features, and provides direct download links for Chrome and Edge.
 
 ![App Preview](./images/preview.png)
@@ -55,12 +55,12 @@ quran-tab-landing/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/quran-tab-landing.git
+   git clone https://github.com/yourusername/quran-tab-landing-page.git
    ```
 2. Navigate to the project folder:
 
    ```bash
-   cd quran-tab-landing
+   cd Quran Tab Landing Page
    ```
 3. Open `index.html` in your browser
    *(for best results, serve with a local server: `npx serve .` or `python -m http.server`)*
@@ -69,7 +69,7 @@ quran-tab-landing/
 
 ## 🌍 Live Demo
 
-👉 [View Online Demo](https://yourusername.github.io/quran-tab-landing/)
+👉 [Quran Tab Landing Page](https://oyoussef162.github.io/quran-tab-landing-page/)
 
 ---
 
